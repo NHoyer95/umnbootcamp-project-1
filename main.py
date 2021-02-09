@@ -1,5 +1,5 @@
 # This is main.py in the project repo
 
 print("Greetings from main.py")
-
-a = 123
+print("Greatings from TinaK")
+a = 12
