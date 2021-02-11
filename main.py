@@ -2,4 +2,4 @@
 
 print("Greetings from main.py")
 print("Greatings from TinaK")
-a = 12
+a = 32
